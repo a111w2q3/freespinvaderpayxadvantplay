@@ -71,7 +71,7 @@
 .corner { position: absolute; width: 180px; pointer-events: none }
 .corner-tl { top: -5px; right: -10px; transform: scaleY(-1) }
 .corner-tr { top: -5px; left: -5px; transform: scale(-1) }
-.corner-bl { left: -5px; bottom: 0px; transform: scaleX(-1); z-index: 5 }
+.corner-bl { left: -5px; bottom: 0px;  z-index: 5 }
 .corner-br { right: -5px; bottom: -5px; z-index: 5 }
 
 /*button-redee*/
